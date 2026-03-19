@@ -21,3 +21,5 @@ We provide clear and concise explanations of important concepts in coordinate ge
 
 ### Practice Problems
 Users can test their knowledge with a variety of practice problems and challenges.
+<script src="https://cdn.botpress.cloud/webchat/v3.6/inject.js"></script>
+<script src="https://files.bpcontent.cloud/2026/03/19/10/20260319100054-UGF4MRF5.js" defer></script>
