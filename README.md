@@ -1,24 +1,15 @@
-# Coordinate Geometry Website
+## Chatbot
 
-## Project Overview
+To embed a Botpress chatbot in your website, follow these steps:
 
-The Coordinate Geometry website is a project aimed at providing users with interactive tools to explore various concepts in coordinate geometry. The website includes features such as:
+1. **Install Botpress**: Make sure you have Botpress installed and running on your server.
 
-- Interactive graphing tools
-- Detailed explanations of geometric concepts
-- Examples and practice problems
+2. **Get the Embed Code**: Go to your Botpress dashboard and navigate to the chatbot you want to embed. Copy the provided embed code.
 
-## Features
+3. **Insert the Embed Code**: Open your HTML file and paste the embed code into the body where you want the chatbot to appear.
 
-### Interactive Graphing Tools
-Users can create and manipulate graphs to visualize points, lines, and shapes on a coordinate plane.
+4. **Test the Chatbot**: Save your changes and refresh your website to ensure the chatbot appears and functions correctly.
 
-### Detailed Explanations
-We provide clear and concise explanations of important concepts in coordinate geometry, including:
-- Points and coordinates
-- Lines and slopes
-- Distance and midpoint formulas
+5. **Customize**: You can customize the appearance and behavior of your Botpress chatbot through the Botpress interface.
 
-### Practice Problems
-Users can test their knowledge with a variety of practice problems and challenges.
-
+Make sure to check Botpress documentation for advanced configurations and settings.
